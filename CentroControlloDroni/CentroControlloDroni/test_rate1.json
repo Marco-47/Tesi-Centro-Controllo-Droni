@@ -1,0 +1,5 @@
+{
+    "num_msg": 1000,
+    "time_in_sec" : 60, 
+    "type_rate" : "uniform"	
+}

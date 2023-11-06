@@ -1,0 +1,1 @@
+register_network rete1 ./rete1/rete1.json {6}
